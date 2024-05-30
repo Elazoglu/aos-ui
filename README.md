@@ -31,5 +31,5 @@ This project allows you to connect to the AOS Terminal using your ArConnect wall
 
 ## Screenshots
 
-![AOS Terminal] 
+https://github.com/Elazoglu/aos-ui/issues/2#issue-2325125130
 
