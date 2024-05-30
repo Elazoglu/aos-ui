@@ -1,5 +1,7 @@
 # Connect to AOS Terminal
 
+https://elazoglu.online/
+
 This project allows you to connect to the AOS Terminal using your ArConnect wallet. The AOS Terminal enables you to perform various operations on Arweave.
 
 ## Features
@@ -7,8 +9,6 @@ This project allows you to connect to the AOS Terminal using your ArConnect wall
 - **ArConnect Integration:** Connect to the AOS Terminal using your ArConnect wallet.
 - **Wallet Information Display:** View the connected wallet address.
 - **Terminal Access:** Use the AOS Terminal to perform transactions.
-
-## Installation
 
 ### Requirements
 
